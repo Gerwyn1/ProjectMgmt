@@ -78,7 +78,7 @@ const RootQuery = new GraphQLObjectType({
     },
   },
 });
-
+// push to github
 const mutation = new GraphQLObjectType({
   name: "Mutation",
   fields: {
